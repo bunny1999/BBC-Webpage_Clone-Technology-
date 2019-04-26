@@ -1,0 +1,220 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;        
+}
+#top_bar{
+    width:1100px;
+    margin:0px auto;
+    height: 38px;
+}
+.logo{
+    margin:8px;
+    float:left;
+}
+.topbar_section{
+    float:left;
+    border-left:1px solid #CCCCCC; 
+    height: 100%;
+}
+.signin_logo{
+    float:left;
+    width:24px;
+    margin:11px 6px 0px 13px;
+}
+.topbar_content{
+    float:left;
+    font-weight: bold;
+    color: #5F5F5F;
+    font-size: 90%;
+    padding:13px 15px 0 15px;
+    height: 24px;
+}
+.dark_skyblue:hover{
+    border-bottom: 3px solid #1188BB;
+}
+.red:hover{
+    border-bottom: 3px solid #A91717;
+}
+.yellow:hover{
+    border-bottom: 3px solid #FFD230;
+}
+.light_skyblue:hover{
+    border-bottom: 3px solid #88CCEE;
+}
+.blue:hover{
+    border-bottom: 3px solid #0068FF;
+}
+.light_green:hover{
+    border-bottom: 3px solid #589E50;
+}
+.light_black:hover{
+    border-bottom: 3px solid #262626;
+}
+.search_box{
+    float:left;
+    background-color: #E4E4E4;
+    padding:5px;
+    border:none;
+    margin:7px 0 0 11px;
+    font-weight: bold;
+    color: #494949;
+}
+#top_secound{
+    width:100%;
+    height:60px;
+    background-color:#BB1919;
+}
+.clear{
+    clear: both;
+}
+#news_text{
+    width:1100px;
+    margin:0 auto;
+    color: white;
+    font-size:45px;
+    position: relative;
+    top:4px;
+}
+#top_third{
+    width: 100%;
+    height: 35px;
+    background-color: #A91717;
+}
+#top_third_bar{
+    width:1100px;
+    margin:0 auto;
+}
+.first_word{
+    float:left;
+    font-size: 15px;
+    color: white;
+    padding:9px 15px 6px 0;
+}
+.first_word:hover{
+    border-bottom: 3px solid white;
+}
+.top_third_options{
+    float: left;
+    border-left: 1px solid #BB4545;
+    height: 50%;
+    margin-top:8px;
+}
+.options_word{
+    float:left;
+    font-size: 15px;
+    color: white;
+    padding:1px 15px 6px 15px;
+}
+.options_word:hover{
+    border-bottom: 3px solid white;
+}
+#main_body_container{
+    width:1100px;
+    margin:0 auto;
+    
+}
+#title{
+    float:left;
+    margin:0 0 0 0;
+}
+#main_heading{
+    float:left;
+    margin:-5px 0 0 0;
+}
+#technology{
+    font-size:22px;
+    font-weight:500;
+    color:#404040;
+    font-family:Tahoma, Geneva, sans-serif;
+    margin:1px 0 2px 0;
+    width:110px;
+    border-bottom: 3px solid #A91717;
+}
+.headings{
+    text-decoration: none;
+    color: #5c5c5c;
+}
+.headings:hover{
+    color:#1167A8;
+}
+#main_heading_content_box{
+    float:left;
+    width:240px;
+    margin:-10px 20px 2px 0;
+}
+.sub_link{
+    text-decoration: none;
+    color:#262626;
+}
+.sub_link:hover{
+    color: #1167A8;
+}
+#main_heading_image{
+    float:left;
+    margin:-5px 0 0 -20px;
+}
+#side_video_continer{
+    float: left;
+    width:340px;
+    margin: -72px 3px;
+}
+.side_video_content{
+    margin:0 0 10px 0;
+}
+.s_video_link{
+    text-decoration: none;
+    color:#262626;
+}
+.s_video_link:hover{
+    color: #1167A8;
+}
+#sub_heading_container{
+    width: 670px;
+    float:left;
+    margin: -470px 0 0 0;
+}
+.sub_headings{
+    width:210px;
+    float:left;
+    margin-right: 15px;
+}
+.small_sub_heading{
+    float:left;
+    width:160px;
+    margin:-19px 0 0 0;
+}
+#bbc_contact{
+    margin:100px 0 0 0;
+    float: left;
+}
+#last_secound_bar{
+    width:100%;
+    height:130px;
+    background-color: #2F2F2F;
+    margin:40px 0 0 0;
+    border-bottom: 0.5px solid #dbdbdb;
+}
+#last_secound_bar_cotainer{
+    margin:0 auto;
+    width:1100px;
+}
+#last_bar{
+    width:100%;
+    height:350px;
+    background-color: #4C4C4C;
+}
+.last_secound_bar_items{
+    width:230px;
+    float: left;
+    margin:-18px 20px 0 0;
+}
+.list_container{
+    float: left;
+    color: whitesmoke;
+    font-size: 14px;
+    font-weight: 300;
+    border-right: 1px solid #949494;
+    height: 110px;
+    margin:10px 15px 0 0;
+}
